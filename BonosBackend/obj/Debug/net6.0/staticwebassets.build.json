@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "S/TzmqvNWs4Ds6NPLKy+0e39epG255hL5phb0zqCuCg=",
+  "Source": "BonosBackend",
+  "BasePath": "_content/BonosBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

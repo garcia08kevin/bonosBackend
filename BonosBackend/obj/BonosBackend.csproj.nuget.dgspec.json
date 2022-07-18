@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\garci\\source\\repos\\BonosBackend\\BonosBackend\\BonosBackend.csproj": {}
+    "C:\\Users\\garci\\source\\repos\\BonosBackend - copia\\BonosBackend\\BonosBackend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\garci\\source\\repos\\BonosBackend\\BonosBackend\\BonosBackend.csproj": {
+    "C:\\Users\\garci\\source\\repos\\BonosBackend - copia\\BonosBackend\\BonosBackend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\garci\\source\\repos\\BonosBackend\\BonosBackend\\BonosBackend.csproj",
+        "projectUniqueName": "C:\\Users\\garci\\source\\repos\\BonosBackend - copia\\BonosBackend\\BonosBackend.csproj",
         "projectName": "BonosBackend",
-        "projectPath": "C:\\Users\\garci\\source\\repos\\BonosBackend\\BonosBackend\\BonosBackend.csproj",
+        "projectPath": "C:\\Users\\garci\\source\\repos\\BonosBackend - copia\\BonosBackend\\BonosBackend.csproj",
         "packagesPath": "C:\\Users\\garci\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\garci\\source\\repos\\BonosBackend\\BonosBackend\\obj\\",
+        "outputPath": "C:\\Users\\garci\\source\\repos\\BonosBackend - copia\\BonosBackend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\garci\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -42,15 +42,15 @@
           "dependencies": {
             "Microsoft.AspNet.WebApi.Cors": {
               "target": "Package",
-              "version": "[5.2.8, )"
+              "version": "[5.2.9, )"
             },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[6.0.4, )"
+              "version": "[6.0.7, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[6.0.4, )"
+              "version": "[6.0.7, )"
             },
             "Microsoft.EntityFrameworkCore.Relational.Design": {
               "target": "Package",
@@ -58,21 +58,29 @@
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[6.0.4, )"
+              "version": "[6.0.7, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[6.0.4, )"
+              "version": "[6.0.7, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.14.0, )"
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
-              "version": "[6.0.3, )"
+              "version": "[6.0.7, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[6.0.5, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[6.3.0, )"
+              "version": "[6.3.1, )"
             }
           },
           "imports": [
@@ -93,7 +101,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }
